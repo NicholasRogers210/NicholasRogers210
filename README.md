@@ -1,7 +1,32 @@
-### Hi there 👋
+<h1>Hi, I'm Nicholas! </h1>
+
+<h2>👨‍💻 Information Technology Projects:</h2>
+
+- <b>Active Directory Home Lab </b>
+  - url
+- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+  - Iurl</b></i>
+- <b>PowerShell</b>
+  - url
+  - url
+  - url
+  - url
+- <b>C# (.NET Desktop Applications)</b>
+  - url
+  - url
+  - url
+- <b>Python</b>
+  - url
+<h2>Certifcations</h2>
+ -[CompTIA A+ Certified]
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/nicholas-rogers-ab4a79243/
 
 <!--
-**NicholasRogers210/NicholasRogers210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
