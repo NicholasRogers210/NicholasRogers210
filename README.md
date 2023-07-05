@@ -10,6 +10,8 @@
   - url
 - <b>Vulnerability Management Lab</b>
   - url
+- <b>Rest API</b>
+  - url
 <h2>Certifcations</h2>
  CompTIA A+ 
 <h2> 🤳 Connect with me:</h2>
