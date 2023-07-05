@@ -2,18 +2,13 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Active Directory Home Lab </b>
+- <b>Active Directory Lab </b>
   - https://github.com/NicholasRogers210/ActiveDirectoryLab/blob/main/README.md
-- <b>PowerShell</b>
+- <b>Setting up SIEM in Azure</b>
   - url
+- <b>File Integrity Monitor project</b>
   - url
-  - url
-  - url
-- <b>C# (.NET Desktop Applications)</b>
-  - url
-  - url
-  - url
-- <b>Python</b>
+- <b>Vulnerability Management Lab</b>
   - url
 <h2>Certifcations</h2>
  CompTIA A+ 
