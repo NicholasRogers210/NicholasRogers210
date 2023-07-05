@@ -4,8 +4,6 @@
 
 - <b>Active Directory Home Lab </b>
   - https://github.com/NicholasRogers210/ActiveDirectoryLab/blob/main/README.md
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - Iurl</b></i>
 - <b>PowerShell</b>
   - url
   - url
