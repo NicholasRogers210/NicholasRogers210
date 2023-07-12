@@ -4,14 +4,8 @@
 
 - <b>Active Directory Lab </b>
   - [Active Directory Lab](https://github.com/NicholasRogers210/ActiveDirectoryLab)
-- <b>Setting up SIEM in Azure</b>
-  - url
-- <b>File Integrity Monitor project</b>
-  - url
-- <b>Vulnerability Management Lab</b>
-  - url
-- <b>Rest API</b>
-  - url
+
+
 <h2>Certifcations</h2>
  CompTIA A+ 
 <h2> 🤳 Connect with me:</h2>
