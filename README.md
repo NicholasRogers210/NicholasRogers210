@@ -12,7 +12,7 @@
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/nicholas-rogers-ab4a79243/
+[linkedin]: https://www.linkedin.com/in/nicholas-rogers210/
 
 <!--
 **NicholasRogers210/NicholasRogers210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
