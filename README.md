@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Active Directory Lab </b>
-  - https://github.com/NicholasRogers210/ActiveDirectoryLab/blob/main/README.md
+  - ActiveDirectoryLab
 - <b>Setting up SIEM in Azure</b>
   - url
 - <b>File Integrity Monitor project</b>
