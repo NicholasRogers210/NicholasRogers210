@@ -6,7 +6,7 @@
   - [Active Directory Lab](https://github.com/NicholasRogers210/ActiveDirectoryLab)
 
 
-<h2>Certifcations</h2>
+<h2>Certifications</h2>
  CompTIA A+ 
 <h2> 🤳 Connect with me:</h2>
 
