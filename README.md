@@ -1,6 +1,6 @@
 <h1>Hi, I'm Nicholas! </h1>
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>👨‍💻 Networking/Cyber Security Projects:</h2>
 
 - <b>Active Directory Lab </b>
   - [Active Directory Lab](https://github.com/NicholasRogers210/ActiveDirectoryLab)
